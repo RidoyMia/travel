@@ -17,7 +17,7 @@ function App() {
         .then(res => res.json())
         .then(data => setCourses(data));
     }, []);
-    //All Routers
+   
   return (
     <div>
       
