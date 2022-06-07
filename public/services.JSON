@@ -1,0 +1,98 @@
+[
+        {
+            "id": 1,
+            "name": "Angular Free Course",
+            "duration": "3 months",
+            "enrolled": 4,
+            "price": 50,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/angular.png?raw=true"
+        },
+        {
+            "id": 2,
+            "name": "Bootstrap 5 Course",
+            "duration": "2 months",
+            "enrolled": 5,
+            "price": 60,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/bootstrap.png?raw=true"
+        },
+        {
+            "id": 3,
+            "name": "Cyber Security Course",
+            "duration": "6 months",
+            "enrolled": 5,
+            "price": 80,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/cybersecurity.jpg?raw=true"
+        },
+        {
+            "id": 4,
+            "name": "HTML Course",
+            "duration": "3 months",
+            "enrolled": 5,
+            "price": 40,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/html-course.png?raw=true"
+        },
+        {
+            "id": 5,
+            "name": "JAVA Course",
+            "duration": "8 months",
+            "enrolled": 4,
+            "price": 70,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/java.jpg?raw=true"
+        },
+        {
+            "id": 6,
+            "name": "JavaScript Course",
+            "duration": "12 months",
+            "enrolled": 5,
+            "price": 100,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/javascript.jpg?raw=true"
+        },
+        {
+            "id": 7,
+            "name": "Node JS Course",
+            "duration": "5 months",
+            "enrolled": 5,
+            "price": 90,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/nodejs.png?raw=true"
+        },
+        {
+            "id": 8,
+            "name": "Python Course",
+            "duration": "7 months",
+            "enrolled": 5,
+            "price": 80,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/python.jpeg?raw=true"
+        },
+        {
+            "id": 9,
+            "name": "PHP Course",
+            "duration": "6 months",
+            "enrolled": 5,
+            "price": 120,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/php.png?raw=true"
+        },
+        {
+            "id": 10,
+            "name": "React JS Course",
+            "duration": "3 months",
+            "enrolled": 5,
+            "price": 150,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/reactjs.png?raw=true"
+        },
+        {
+            "id": 11,
+            "name": "TypeScript Course",
+            "duration": "6 months",
+            "enrolled": 5,
+            "price": 200,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/typescript.jpeg?raw=true"
+        },
+        {
+            "id": 12,
+            "name": "WordPress CMS Course",
+            "duration": "5 months",
+            "enrolled": 5,
+            "price": 60,
+            "img": "https://github.com/wdkabir/learn-area-images/blob/main/wordpress.png?raw=true"
+        }
+]
